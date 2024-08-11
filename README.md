@@ -17,11 +17,6 @@ git clone https://gitee.com/nfl-tangh/nfl-idns-api.git
 git clone https://github.com/NFLjiancx/NFL_IDNS_API.git
 ```
 
-#### 通过pypi安装
-```
-pip install nfl_idns_api
-```
-
 ## 代码示例
 #### 导入模块
 ```python
